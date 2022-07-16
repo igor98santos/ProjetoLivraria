@@ -1,0 +1,23 @@
+1-front-end em react
+2-back-end com spring 
+3-uma versão com node puro 
+4-hospedar o front no vercel e o back no heroku
+5-
+
+vou usar o bootstrap por não ter tanto dominio no front-end
+
+paginmal inicial
+vai ter um carrosel aonde vai passar algumas obras com umas frases,
+e o menu para pesquisa ou navegação para as demais pagianas vai ficar sobre o carrossel.
+
+depois do meu head eu vou colocar algulmas seções de genero tipo ficção ai abaixo vai ter alguns livros sobre o tema.
+
+paginas
+cadastro  
+login
+uma pagina para o adm para registrar novos livros
+uma pagina para cada tema no caso um pagina universal aonde vou mudar só a renderização
+
+
+  
+

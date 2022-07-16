@@ -1,0 +1,38 @@
+1-administrador
+2-cliente cadastro // cadastro de cliente
+3-login cliente e adm
+4-cliente comprar
+5- administrador registra livro
+
+1 administrador
+id int primary key not null auto_increment,
+nome varchar(10),
+email varchar(18) not null unique,
+senha varchar(25) not null unique,
+
+falta eu fazer as foreign<=====WARNING
+
+acesso ao cadastro do cliente forey key
+acesso ao cadastro de livros forey key,
+
+2 cadastro cliente
+id
+codigoCliente visivel só para o adm
+nome
+sobrenome
+dataNasc
+telefone
+email
+cpf
+senha
+
+3 cadastro livros
+id
+codigo livro
+nome autor
+nome do livro
+valor do livro
+capa
+data ou ano de publicação
+descrisão
+valor
